@@ -4,9 +4,12 @@
 
 .. inclusion-marker-do-not-remove
 
+.. image:: https://colab.research.google.com/assets/colab-badge.svg
+   :target: https://colab.research.google.com/github/Skorkmaz88/spotlight/blob/master/Spotlight.ipynb
+
 .. image:: https://travis-ci.org/maciejkula/spotlight.svg?branch=master
    :target: https://travis-ci.org/maciejkula/spotlight
-
+   
 .. image:: https://ci.appveyor.com/api/projects/status/jq5e76a7a08ra2ji/branch/master?svg=true
    :target: https://ci.appveyor.com/project/maciejkula/spotlight/branch/master
 
